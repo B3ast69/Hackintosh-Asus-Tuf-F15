@@ -3,4 +3,4 @@
 macOS Ventura EFI Folder for Asus TUF F15 FX506LHB
 
 
-#Specs
+# Laptop Specs 
